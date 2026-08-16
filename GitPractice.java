@@ -9,6 +9,6 @@ public class GitPractice {
             "My first Git commit created using Java!\n"
         );
 
-        System.out.println("File created successfully!");
+        System.out.println("I am learning Git with Java!");
     }
 }
